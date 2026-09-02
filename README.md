@@ -1,11 +1,11 @@
 # AQI SENTINEL — Bengaluru Air Quality Early-Warning & Risk-Ranking System
 
 > **Bengaluru's Environmental Operating System**  
-> *Monitor. Predict. Understand. Act.*
+> _Monitor. Predict. Understand. Act._
 
 AQI SENTINEL is a production-quality, Bengaluru-restricted environmental intelligence platform. It continuously ingests, analyzes, ranks, and visualizes air quality telemetry, nitrogen dioxide concentrations, traffic bottleneck congestion, industrial stack emissions, and green canopy coverage across 12 key Bengaluru municipal zones.
 
----------
+
 
 ## Key Features & Architectural Scope
 
@@ -16,10 +16,10 @@ AQI SENTINEL is a production-quality, Bengaluru-restricted environmental intelli
    - **Binary Search ($O(\log N)$)**: Custom implementation in `lib/algorithms/binarySearch.ts` for fast target AQI lookups in Safe Zone Finder.
    - **Pearson Correlation ($r$)**: Custom implementation in `lib/algorithms/correlation.ts` measuring linear relationship between Traffic Density (%) and $NO_2$ Concentration ($\mu\text{g/m}^3$).
    - **Moving Average & Trend Slope**: Custom implementation in `lib/algorithms/movingAverage.ts` for 24-hour pollution spike predictions.
-   - Interactive *"How the Algorithm Works"* UI inspection drawers on key pages.
+   - Interactive _"How the Algorithm Works"_ UI inspection drawers on key pages.
 4. **12 Comprehensive Dedicated Views**:
    - `Landing Page`: Futuristic environmental command platform hero with particle canvas & live ticker.
-   - `Command Center`: Ranked hotspots & Azure OpenAI powered *"Why is this area high-risk?"* breakdown.
+   - `Command Center`: Ranked hotspots & Azure OpenAI powered _"Why is this area high-risk?"_ breakdown.
    - `3D Bengaluru Pollution Map`: Leaflet geospatial layer with particle density rings, time slider, and station popups.
    - `Early Warning`: 24-hour spike probabilities, trend slopes, anomaly detectors, and intervention solutions.
    - `Air Analytics Lab`: Multi-pollutant time-series, weather correlations, and Traffic vs $NO_2$ scatter plot.
@@ -47,20 +47,26 @@ AQI SENTINEL is a production-quality, Bengaluru-restricted environmental intelli
 ## Installation & Setup Instructions
 
 ### 1. Prerequisites
+
 - Node.js 18+ and `npm` or `yarn` installed.
 
 ### 2. Clone & Install Dependencies
+
 ```bash
 cd c:\AQISentinek
 npm install
 ```
 
 ### 3. Environment Variables
+
 Copy `.env.example` to `.env.local`:
+
 ```bash
 cp .env.example .env.local
 ```
+
 Configure your credentials in `.env.local`:
+
 ```env
 AZURE_OPENAI_API_KEY=your_azure_openai_api_key
 AZURE_OPENAI_ENDPOINT=https://dambalkiran-4933-resource.services.ai.azure.com
@@ -72,18 +78,23 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
 ### 4. Database Setup (Supabase)
+
 Apply the SQL migration script located in `supabase/migrations/00001_initial_schema.sql` via the Supabase Dashboard SQL Editor or Supabase CLI:
+
 ```bash
 npx supabase db push
 ```
 
 ### 5. Run Development Server
+
 ```bash
 npm run dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### 6. Production Build
+
 ```bash
 npm run build
 npm run start
@@ -115,14 +126,5 @@ npm run start
 
 ## 👥 Team & Contributors
 
-| Member | GitHub Username | Role |
-| :--- | :--- | :--- |
-| **Jeevan Gowda H M** | [@jeevangowdahm](https://github.com/jeevangowdahm) | Core Engine |
-| **Shashank Sharma** | [@hshashanksharma-ui](https://github.com/hshashanksharma-ui) | UI Development |
-| **Ayush Aryaman** | [@Ayushcodes-hub](https://github.com/Ayushcodes-hub) | Developer  |
-| **Abishek Lochan K** | [@abisheklochan-a11y](https://github.com/abisheklochan-a11y) | Accessibility & Frontend |
-| **Hariprasad Muniraja** | [@hariprasadmstar2007-design](https://github.com/hariprasadmstar2007-design) | Project Lead |
-| **Bhuvan B P** | [@bhuvanbp0407](https://github.com/bhuvanbp0407) | Developer |
 
 ---
-
