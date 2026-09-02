@@ -117,11 +117,11 @@ npm run start
 
 | Member | GitHub Username | Role |
 | :--- | :--- | :--- |
-| **Jeevan Gowda H M** | [@jeevangowdahm](https://github.com/jeevangowdahm) | Project Lead / Core Engine |
+| **Jeevan Gowda H M** | [@jeevangowdahm](https://github.com/jeevangowdahm) | Core Engine |
 | **Shashank Sharma** | [@hshashanksharma-ui](https://github.com/hshashanksharma-ui) | UI Development |
-| **Ayush** | [@Ayushcodes-hub](https://github.com/Ayushcodes-hub) | Developer |
+| **Ayush** | [@Ayushcodes-hub](https://github.com/Ayushcodes-hub) | Developer  |
 | **Abishek Lochan** | [@abisheklochan-a11y](https://github.com/abisheklochan-a11y) | Accessibility & Frontend |
-| **Hari Prasad** | [@hariprasadmstar2007-design](https://github.com/hariprasadmstar2007-design) | Design Lead |
+| **Hari Prasad** | [@hariprasadmstar2007-design](https://github.com/hariprasadmstar2007-design) | Project Lead |
 | **Bhuvan B P** | [@bhuvanbp0407](https://github.com/bhuvanbp0407) | Developer |
 
 ---
