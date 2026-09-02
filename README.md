@@ -5,7 +5,7 @@
 
 AQI SENTINEL is a production-quality, Bengaluru-restricted environmental intelligence platform. It continuously ingests, analyzes, ranks, and visualizes air quality telemetry, nitrogen dioxide concentrations, traffic bottleneck congestion, industrial stack emissions, and green canopy coverage across 12 key Bengaluru municipal zones.
 
----
+-------
 
 ## Key Features & Architectural Scope
 
