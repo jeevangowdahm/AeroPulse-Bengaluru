@@ -89,7 +89,7 @@ npm run build
 npm run start
 ```
 
----
+-----
 
 ## API Endpoints
 
@@ -120,7 +120,7 @@ npm run start
 | **Jeevan Gowda H M** | [@jeevangowdahm](https://github.com/jeevangowdahm) | Core Engine |
 | **Shashank Sharma** | [@hshashanksharma-ui](https://github.com/hshashanksharma-ui) | UI Development |
 | **Ayush Aryaman** | [@Ayushcodes-hub](https://github.com/Ayushcodes-hub) | Developer  |
-| **Abishek Lochan** | [@abisheklochan-a11y](https://github.com/abisheklochan-a11y) | Accessibility & Frontend |
+| **Abishek Lochan K** | [@abisheklochan-a11y](https://github.com/abisheklochan-a11y) | Accessibility & Frontend |
 | **Hariprasad Muniraja** | [@hariprasadmstar2007-design](https://github.com/hariprasadmstar2007-design) | Project Lead |
 | **Bhuvan B P** | [@bhuvanbp0407](https://github.com/bhuvanbp0407) | Developer |
 
