@@ -1,0 +1,9 @@
+corridor_id,corridor_name,length_km,avg_speed_kmh,congestion_index,traffic_density_level,estimated_emissions_factor
+COR_01,Outer Ring Road (Silk Board to Marathahalli),18.5,14.2,85,Very High,2.8
+COR_02,Hosur Road Expressway & Service Road,14.0,18.5,78,High,2.4
+COR_03,Old Madras Road (Indiranagar to KR Puram),11.2,16.0,72,High,2.1
+COR_04,Bellary Road / Airport Corridor,22.0,38.0,48,Moderate,1.5
+COR_05,Bannerghatta Road (Dairy Circle to Meenakshi),9.8,12.5,82,Very High,2.6
+COR_06,Tumkur Road / Peenya Flyover Corridor,15.0,24.0,68,High,2.2
+COR_07,Kanakapura Road (Banashankari to NICE Rd),12.0,28.0,52,Moderate,1.6
+COR_08,Sarjapur Road (Koramangala to Dommasandra),10.5,13.8,80,Very High,2.5

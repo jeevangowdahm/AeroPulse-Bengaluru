@@ -1,0 +1,5 @@
+event_id,project_name,latitude,longitude,project_type,start_date,expected_completion,status,environmental_impact_notes,pm10_local_multiplier
+CST_01,Namma Metro Phase 2A (Silk Board to KR Puram ORR),12.94,77.68,Metro Rail Construction,2022-01-10,2027-06-30,Active,High Dust Potential (Mitigation: Water Sprinklers),1.35
+CST_02,Namma Metro Phase 2B (Airport Line Hebbal to Yelahanka),13.07,77.595,Elevated Viaduct Construction,2022-08-15,2027-12-31,Active,Medium Dust Potential,1.25
+CST_03,Ejipura Inner Ring Road Elevated Corridor,12.941,77.628,Flyover Construction,2023-03-01,2026-11-30,Active,High Silt & Traffic Redirection,1.3
+CST_04,Peripheral Ring Road (PRR) Earthwork Grading,13.12,77.65,Highway Earthworks,2025-05-01,2028-03-31,Active,High Soil Dust,1.4

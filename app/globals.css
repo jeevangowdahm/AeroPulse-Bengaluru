@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased font-sans text-slate-900 bg-slate-950 min-h-screen selection:bg-emerald-500 selection:text-white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight font-bold text-slate-900;
+  }
+}
+
+/* Frosted Glassmorphic Cards (Allows Full Background Photo to Shine Through Beautifully) */
+.classy-card {
+  background: rgba(255, 255, 255, 0.90) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.7) !important;
+  box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.08), 0 2px 8px 0 rgba(15, 23, 42, 0.04) !important;
+}
+
+.classy-card-hover {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.classy-card-hover:hover {
+  transform: translateY(-2px);
+  background: rgba(255, 255, 255, 0.96) !important;
+  border-color: rgba(255, 255, 255, 0.9) !important;
+  box-shadow: 0 14px 36px 0 rgba(15, 23, 42, 0.14) !important;
+}
+
+/* Cyber Emerald High-Contrast Cyberpunk Visual Theme */
+.theme-cyber-emerald .classy-card {
+  background: rgba(4, 30, 24, 0.88) !important;
+  backdrop-filter: blur(18px) !important;
+  -webkit-backdrop-filter: blur(18px) !important;
+  border: 1px solid rgba(16, 185, 129, 0.4) !important;
+  box-shadow: 0 8px 32px 0 rgba(6, 78, 59, 0.4), 0 0 15px 0 rgba(16, 185, 129, 0.2) !important;
+  color: #ECFDF5 !important;
+}
+
+.theme-cyber-emerald .classy-card h1,
+.theme-cyber-emerald .classy-card h2,
+.theme-cyber-emerald .classy-card h3,
+.theme-cyber-emerald .classy-card h4,
+.theme-cyber-emerald .classy-card p,
+.theme-cyber-emerald .classy-card span:not([class*="bg-"]):not([class*="text-"]) {
+  color: #F0FDF4 !important;
+}
+
+.theme-cyber-emerald .classy-card-hover:hover {
+  background: rgba(6, 78, 59, 0.92) !important;
+  border-color: #34D399 !important;
+  box-shadow: 0 0 25px 0 rgba(52, 211, 153, 0.35) !important;
+}
+
+/* Minimalist Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(241, 245, 249, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Leaflet Container & Popups */
+.leaflet-container {
+  background: #F8FAFC !important;
+  font-family: inherit;
+  border-radius: 1.5rem;
+}
+.leaflet-popup-content-wrapper {
+  background: rgba(255, 255, 255, 0.96) !important;
+  backdrop-filter: blur(16px) !important;
+  color: #0F172A !important;
+  border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  border-radius: 16px !important;
+  box-shadow: 0 20px 30px -8px rgba(15, 23, 42, 0.2) !important;
+}
+.leaflet-popup-tip {
+  background: #FFFFFF !important;
+}
+
+/* Custom Marker Pills */
+.custom-aqi-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

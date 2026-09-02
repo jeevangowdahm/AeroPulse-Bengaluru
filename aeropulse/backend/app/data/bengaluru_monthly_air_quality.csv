@@ -1,0 +1,617 @@
+month,station_id,station_name,season,monthly_mean_aqi,monthly_mean_pm25,monthly_mean_pm10,good_days,moderate_days,unhealthy_days,aqi_category,primary_pollutant,data_source,data_quality
+2023-01,BLR_ST01,Silk Board Junction,Winter,267,110.0,202.9,5,15,10,Poor,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST02,BTM Layout CAAQMS,Winter,127,67.3,138.9,17,17,0,Moderate,PM10,DEMO,SIMULATED
+2023-01,BLR_ST03,Peenya Industrial Area,Winter,302,121.9,243.0,1,15,14,Very Poor,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST04,Hebbal CAAQMS,Winter,221,96.2,186.0,7,16,7,Poor,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,156,76.7,167.6,13,16,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST06,Indiranagar 100ft Road,Winter,114,63.6,119.9,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2023-01,BLR_ST07,Jayanagar 4th Block,Winter,99,49.0,99.3,20,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-01,BLR_ST08,City Railway Station / Majestic,Winter,238,101.3,193.7,5,18,7,Poor,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,102,58.7,102.1,20,13,0,Moderate,PM10,DEMO,SIMULATED
+2023-01,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,245,103.3,168.6,4,17,9,Poor,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,86,47.4,86.0,22,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-01,BLR_ST12,Yelahanka New Town,Winter,95,54.5,95.3,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-01,BLR_ST13,Electronic City Phase 1,Winter,151,75.2,144.5,13,12,5,Moderate,PM2.5,DEMO,SIMULATED
+2023-01,BLR_ST14,Mysore Road / Nayandahalli,Winter,189,86.7,170.5,9,18,3,Moderate,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST01,Silk Board Junction,Winter,278,113.3,195.2,2,15,13,Poor,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST02,BTM Layout CAAQMS,Winter,146,73.5,133.9,13,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST03,Peenya Industrial Area,Winter,303,122.7,228.4,1,16,13,Very Poor,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST04,Hebbal CAAQMS,Winter,178,83.4,172.9,13,16,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,177,83.1,150.8,11,13,6,Moderate,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST06,Indiranagar 100ft Road,Winter,108,61.6,110.3,19,13,0,Moderate,PM10,DEMO,SIMULATED
+2023-02,BLR_ST07,Jayanagar 4th Block,Winter,99,55.0,99.0,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-02,BLR_ST08,City Railway Station / Majestic,Winter,251,105.1,200.9,2,12,16,Poor,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,105,58.2,106.4,21,16,0,Moderate,PM10,DEMO,SIMULATED
+2023-02,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,207,91.9,167.6,9,15,6,Poor,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,94,50.4,94.0,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-02,BLR_ST12,Yelahanka New Town,Winter,98,54.3,97.7,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-02,BLR_ST13,Electronic City Phase 1,Winter,173,81.7,148.8,14,15,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-02,BLR_ST14,Mysore Road / Nayandahalli,Winter,206,91.6,169.8,8,14,8,Poor,PM2.5,DEMO,SIMULATED
+2023-03,BLR_ST01,Silk Board Junction,Summer,176,82.6,159.8,11,18,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-03,BLR_ST02,BTM Layout CAAQMS,Summer,95,54.9,95.2,18,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-03,BLR_ST03,Peenya Industrial Area,Summer,217,94.9,184.7,9,18,3,Poor,PM2.5,DEMO,SIMULATED
+2023-03,BLR_ST04,Hebbal CAAQMS,Summer,124,65.3,135.2,18,17,0,Moderate,PM10,DEMO,SIMULATED
+2023-03,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,126,67.5,116.9,16,12,2,Moderate,PM2.5,DEMO,SIMULATED
+2023-03,BLR_ST06,Indiranagar 100ft Road,Summer,86,46.4,85.8,19,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-03,BLR_ST07,Jayanagar 4th Block,Summer,80,37.1,79.2,24,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-03,BLR_ST08,City Railway Station / Majestic,Summer,162,78.6,138.8,13,15,2,Moderate,PM2.5,DEMO,SIMULATED
+2023-03,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,85,43.3,85.2,22,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-03,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,130,68.8,144.6,19,12,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-03,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,70,37.6,69.5,25,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-03,BLR_ST12,Yelahanka New Town,Summer,74,43.3,73.4,24,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-03,BLR_ST13,Electronic City Phase 1,Summer,113,58.9,118.9,20,12,0,Moderate,PM10,DEMO,SIMULATED
+2023-03,BLR_ST14,Mysore Road / Nayandahalli,Summer,131,68.9,145.8,17,15,0,Moderate,PM10,DEMO,SIMULATED
+2023-04,BLR_ST01,Silk Board Junction,Summer,189,86.7,137.9,10,16,4,Moderate,PM2.5,DEMO,SIMULATED
+2023-04,BLR_ST02,BTM Layout CAAQMS,Summer,106,52.2,107.4,21,14,0,Moderate,PM10,DEMO,SIMULATED
+2023-04,BLR_ST03,Peenya Industrial Area,Summer,231,99.2,166.8,6,12,12,Poor,PM2.5,DEMO,SIMULATED
+2023-04,BLR_ST04,Hebbal CAAQMS,Summer,135,70.3,135.6,14,12,4,Moderate,PM2.5,DEMO,SIMULATED
+2023-04,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,119,59.2,127.4,20,16,0,Moderate,PM10,DEMO,SIMULATED
+2023-04,BLR_ST06,Indiranagar 100ft Road,Summer,86,50.1,85.4,21,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-04,BLR_ST07,Jayanagar 4th Block,Summer,78,39.3,77.4,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-04,BLR_ST08,City Railway Station / Majestic,Summer,146,73.5,138.6,15,13,2,Moderate,PM2.5,DEMO,SIMULATED
+2023-04,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,86,41.4,85.8,23,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-04,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,132,69.2,146.4,18,15,0,Moderate,PM10,DEMO,SIMULATED
+2023-04,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,64,37.6,63.6,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-04,BLR_ST12,Yelahanka New Town,Summer,82,39.3,81.6,22,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-04,BLR_ST13,Electronic City Phase 1,Summer,113,59.5,118.7,17,12,1,Moderate,PM10,DEMO,SIMULATED
+2023-04,BLR_ST14,Mysore Road / Nayandahalli,Summer,130,68.9,127.1,16,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST01,Silk Board Junction,Summer,174,82.2,145.0,12,17,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST02,BTM Layout CAAQMS,Summer,104,55.3,104.4,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2023-05,BLR_ST03,Peenya Industrial Area,Summer,199,89.7,174.9,8,14,8,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST04,Hebbal CAAQMS,Summer,124,66.9,128.4,18,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,127,67.8,118.1,17,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST06,Indiranagar 100ft Road,Summer,86,46.4,86.2,21,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-05,BLR_ST07,Jayanagar 4th Block,Summer,72,40.2,71.7,24,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-05,BLR_ST08,City Railway Station / Majestic,Summer,173,81.9,153.4,11,16,3,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,87,42.0,86.6,19,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-05,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,132,69.5,129.9,18,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-05,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,70,34.0,69.1,24,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-05,BLR_ST12,Yelahanka New Town,Summer,84,42.6,83.9,23,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-05,BLR_ST13,Electronic City Phase 1,Summer,117,61.3,124.7,19,17,0,Moderate,PM10,DEMO,SIMULATED
+2023-05,BLR_ST14,Mysore Road / Nayandahalli,Summer,149,74.5,133.6,14,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-06,BLR_ST01,Silk Board Junction,Monsoon,102,54.1,102.1,18,15,0,Moderate,PM10,DEMO,SIMULATED
+2023-06,BLR_ST02,BTM Layout CAAQMS,Monsoon,63,35.4,62.5,23,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST03,Peenya Industrial Area,Monsoon,107,55.2,109.8,21,17,0,Moderate,PM10,DEMO,SIMULATED
+2023-06,BLR_ST04,Hebbal CAAQMS,Monsoon,87,42.7,87.2,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,87,39.5,87.1,20,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST06,Indiranagar 100ft Road,Monsoon,62,31.4,61.1,21,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST07,Jayanagar 4th Block,Monsoon,47,26.9,46.9,25,14,0,Good,PM10,DEMO,SIMULATED
+2023-06,BLR_ST08,City Railway Station / Majestic,Monsoon,97,48.2,96.5,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,55,27.9,53.8,25,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,93,44.7,93.3,18,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,25.6,45.1,25,18,0,Good,PM10,DEMO,SIMULATED
+2023-06,BLR_ST12,Yelahanka New Town,Monsoon,53,28.3,51.6,26,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST13,Electronic City Phase 1,Monsoon,74,38.7,73.3,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-06,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,83,49.2,82.4,21,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST01,Silk Board Junction,Monsoon,96,57.4,92.3,21,14,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2023-07,BLR_ST02,BTM Layout CAAQMS,Monsoon,66,37.2,65.3,24,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST03,Peenya Industrial Area,Monsoon,115,55.1,121.6,19,13,0,Moderate,PM10,DEMO,SIMULATED
+2023-07,BLR_ST04,Hebbal CAAQMS,Monsoon,87,43.2,87.2,21,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,77,39.3,76.8,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST06,Indiranagar 100ft Road,Monsoon,59,31.8,58.6,25,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST07,Jayanagar 4th Block,Monsoon,46,25.1,45.9,26,15,0,Good,PM10,DEMO,SIMULATED
+2023-07,BLR_ST08,City Railway Station / Majestic,Monsoon,89,48.0,88.9,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,52,27.4,50.8,26,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,91,45.5,91.3,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,22.1,42.5,24,16,0,Good,O3,DEMO,SIMULATED
+2023-07,BLR_ST12,Yelahanka New Town,Monsoon,53,29.2,51.8,26,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST13,Electronic City Phase 1,Monsoon,78,36.4,77.4,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-07,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,90,44.1,89.9,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST01,Silk Board Junction,Monsoon,92,53.2,92.2,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST02,BTM Layout CAAQMS,Monsoon,68,33.3,67.8,22,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST03,Peenya Industrial Area,Monsoon,108,61.4,110.3,19,15,0,Moderate,PM10,DEMO,SIMULATED
+2023-08,BLR_ST04,Hebbal CAAQMS,Monsoon,81,45.8,81.0,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,76,39.2,75.0,24,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST06,Indiranagar 100ft Road,Monsoon,60,32.2,58.8,23,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST07,Jayanagar 4th Block,Monsoon,49,24.2,48.8,27,16,0,Good,PM10,DEMO,SIMULATED
+2023-08,BLR_ST08,City Railway Station / Majestic,Monsoon,98,46.6,98.2,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,55,26.8,53.9,23,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,84,48.6,83.8,22,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,47,23.5,46.9,27,15,0,Good,PM10,DEMO,SIMULATED
+2023-08,BLR_ST12,Yelahanka New Town,Monsoon,54,26.0,53.5,25,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST13,Electronic City Phase 1,Monsoon,78,40.0,77.7,24,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-08,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,85,45.7,84.9,20,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST01,Silk Board Junction,Monsoon,98,49.8,98.1,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST02,BTM Layout CAAQMS,Monsoon,62,34.0,61.6,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST03,Peenya Industrial Area,Monsoon,111,60.1,114.9,19,17,0,Moderate,PM10,DEMO,SIMULATED
+2023-09,BLR_ST04,Hebbal CAAQMS,Monsoon,91,43.0,91.3,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,81,39.0,80.3,23,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST06,Indiranagar 100ft Road,Monsoon,58,29.1,57.4,26,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST07,Jayanagar 4th Block,Monsoon,54,26.3,52.8,25,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST08,City Railway Station / Majestic,Monsoon,95,47.9,94.8,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,56,27.1,54.6,25,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,92,52.1,92.3,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,47,22.4,46.8,23,17,0,Good,PM10,DEMO,SIMULATED
+2023-09,BLR_ST12,Yelahanka New Town,Monsoon,54,26.0,53.3,23,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST13,Electronic City Phase 1,Monsoon,74,37.6,73.6,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-09,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,91,46.6,91.2,18,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-10,BLR_ST01,Silk Board Junction,Post-Monsoon,209,92.5,174.1,7,18,5,Poor,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST02,BTM Layout CAAQMS,Post-Monsoon,118,58.9,126.1,19,12,0,Moderate,PM10,DEMO,SIMULATED
+2023-10,BLR_ST03,Peenya Industrial Area,Post-Monsoon,228,98.2,193.2,5,16,9,Poor,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST04,Hebbal CAAQMS,Post-Monsoon,147,73.8,150.8,16,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST05,Whitefield Export Promotion Industrial Park,Post-Monsoon,151,75.3,138.5,16,12,2,Moderate,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST06,Indiranagar 100ft Road,Post-Monsoon,105,57.2,106.0,20,15,0,Moderate,PM10,DEMO,SIMULATED
+2023-10,BLR_ST07,Jayanagar 4th Block,Post-Monsoon,91,42.0,91.2,22,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-10,BLR_ST08,City Railway Station / Majestic,Post-Monsoon,182,84.5,173.4,13,16,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Post-Monsoon,97,52.0,97.2,18,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-10,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Post-Monsoon,172,81.6,147.9,11,12,7,Moderate,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Post-Monsoon,82,45.3,81.5,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-10,BLR_ST12,Yelahanka New Town,Post-Monsoon,91,47.2,91.2,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-10,BLR_ST13,Electronic City Phase 1,Post-Monsoon,141,72.2,122.9,13,16,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-10,BLR_ST14,Mysore Road / Nayandahalli,Post-Monsoon,163,78.8,164.2,15,14,1,Moderate,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST01,Silk Board Junction,Post-Monsoon,207,91.9,179.0,8,16,6,Poor,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST02,BTM Layout CAAQMS,Post-Monsoon,124,67.0,117.2,18,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST03,Peenya Industrial Area,Post-Monsoon,225,97.2,191.7,9,12,9,Poor,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST04,Hebbal CAAQMS,Post-Monsoon,168,80.4,153.7,13,12,5,Moderate,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST05,Whitefield Export Promotion Industrial Park,Post-Monsoon,157,77.0,153.9,16,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST06,Indiranagar 100ft Road,Post-Monsoon,97,55.9,96.8,21,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-11,BLR_ST07,Jayanagar 4th Block,Post-Monsoon,90,46.1,90.1,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-11,BLR_ST08,City Railway Station / Majestic,Post-Monsoon,194,88.2,164.8,12,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Post-Monsoon,90,46.6,89.5,19,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-11,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Post-Monsoon,190,87.0,173.5,10,18,2,Moderate,PM2.5,DEMO,SIMULATED
+2023-11,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Post-Monsoon,84,40.8,83.7,23,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-11,BLR_ST12,Yelahanka New Town,Post-Monsoon,95,44.2,94.8,19,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-11,BLR_ST13,Electronic City Phase 1,Post-Monsoon,125,65.1,135.7,17,12,1,Moderate,PM10,DEMO,SIMULATED
+2023-11,BLR_ST14,Mysore Road / Nayandahalli,Post-Monsoon,175,82.3,148.0,12,14,4,Moderate,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST01,Silk Board Junction,Winter,238,101.2,194.0,5,17,8,Poor,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST02,BTM Layout CAAQMS,Winter,142,72.3,141.6,16,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST03,Peenya Industrial Area,Winter,277,113.1,236.0,2,13,15,Poor,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST04,Hebbal CAAQMS,Winter,186,85.8,182.1,13,14,3,Moderate,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,161,78.1,151.2,11,17,2,Moderate,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST06,Indiranagar 100ft Road,Winter,116,64.5,113.3,16,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST07,Jayanagar 4th Block,Winter,104,54.2,104.3,20,14,0,Moderate,PM10,DEMO,SIMULATED
+2023-12,BLR_ST08,City Railway Station / Majestic,Winter,240,101.8,186.3,7,18,5,Poor,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,102,54.7,101.9,21,14,0,Moderate,PM10,DEMO,SIMULATED
+2023-12,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,215,94.3,188.1,7,12,11,Poor,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,87,47.4,86.7,23,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-12,BLR_ST12,Yelahanka New Town,Winter,100,54.0,99.5,19,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2023-12,BLR_ST13,Electronic City Phase 1,Winter,181,84.3,153.2,12,14,4,Moderate,PM2.5,DEMO,SIMULATED
+2023-12,BLR_ST14,Mysore Road / Nayandahalli,Winter,216,94.6,161.8,7,15,8,Poor,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST01,Silk Board Junction,Winter,258,107.3,186.3,6,18,6,Poor,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST02,BTM Layout CAAQMS,Winter,126,67.5,133.9,16,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST03,Peenya Industrial Area,Winter,294,118.3,231.6,1,13,16,Poor,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST04,Hebbal CAAQMS,Winter,199,89.6,164.8,10,14,6,Moderate,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,191,87.3,155.6,9,16,5,Moderate,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST06,Indiranagar 100ft Road,Winter,111,56.5,114.8,17,18,0,Moderate,PM10,DEMO,SIMULATED
+2024-01,BLR_ST07,Jayanagar 4th Block,Winter,94,48.0,93.6,19,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-01,BLR_ST08,City Railway Station / Majestic,Winter,230,98.8,183.0,5,18,7,Poor,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,104,60.9,101.3,17,13,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,216,94.6,170.3,10,16,4,Poor,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,92,48.9,91.8,20,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-01,BLR_ST12,Yelahanka New Town,Winter,103,54.5,102.3,20,12,0,Moderate,PM10,DEMO,SIMULATED
+2024-01,BLR_ST13,Electronic City Phase 1,Winter,169,80.7,138.0,13,15,2,Moderate,PM2.5,DEMO,SIMULATED
+2024-01,BLR_ST14,Mysore Road / Nayandahalli,Winter,223,96.8,164.2,7,14,9,Poor,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST01,Silk Board Junction,Winter,246,103.6,193.6,5,14,11,Poor,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST02,BTM Layout CAAQMS,Winter,117,64.8,124.8,20,13,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST03,Peenya Industrial Area,Winter,301,120.3,232.9,1,13,16,Very Poor,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST04,Hebbal CAAQMS,Winter,222,96.5,166.8,7,17,6,Poor,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,176,82.8,168.4,13,12,5,Moderate,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST06,Indiranagar 100ft Road,Winter,107,58.9,109.5,18,18,0,Moderate,PM10,DEMO,SIMULATED
+2024-02,BLR_ST07,Jayanagar 4th Block,Winter,102,48.6,102.0,19,15,0,Moderate,PM10,DEMO,SIMULATED
+2024-02,BLR_ST08,City Railway Station / Majestic,Winter,241,102.0,188.7,3,12,15,Poor,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,103,53.6,102.7,19,17,0,Moderate,PM10,DEMO,SIMULATED
+2024-02,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,210,92.7,174.2,10,14,6,Poor,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,92,50.2,91.7,20,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-02,BLR_ST12,Yelahanka New Town,Winter,107,54.8,108.8,20,13,0,Moderate,PM10,DEMO,SIMULATED
+2024-02,BLR_ST13,Electronic City Phase 1,Winter,148,74.3,137.2,14,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-02,BLR_ST14,Mysore Road / Nayandahalli,Winter,194,88.2,182.3,8,13,9,Moderate,PM2.5,DEMO,SIMULATED
+2024-03,BLR_ST01,Silk Board Junction,Summer,160,78.0,139.6,12,15,3,Moderate,PM2.5,DEMO,SIMULATED
+2024-03,BLR_ST02,BTM Layout CAAQMS,Summer,96,55.0,95.5,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-03,BLR_ST03,Peenya Industrial Area,Summer,222,96.3,165.1,7,16,7,Poor,PM2.5,DEMO,SIMULATED
+2024-03,BLR_ST04,Hebbal CAAQMS,Summer,126,65.9,137.7,18,14,0,Moderate,PM10,DEMO,SIMULATED
+2024-03,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,121,61.5,130.2,18,17,0,Moderate,PM10,DEMO,SIMULATED
+2024-03,BLR_ST06,Indiranagar 100ft Road,Summer,89,43.9,88.6,20,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-03,BLR_ST07,Jayanagar 4th Block,Summer,74,36.9,73.9,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-03,BLR_ST08,City Railway Station / Majestic,Summer,158,77.4,156.1,16,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-03,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,79,44.4,78.6,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-03,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,152,75.6,139.7,16,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-03,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,70,36.9,69.8,23,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-03,BLR_ST12,Yelahanka New Town,Summer,76,41.9,75.3,20,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-03,BLR_ST13,Electronic City Phase 1,Summer,110,59.0,113.9,18,14,0,Moderate,PM10,DEMO,SIMULATED
+2024-03,BLR_ST14,Mysore Road / Nayandahalli,Summer,125,65.8,137.0,16,14,0,Moderate,PM10,DEMO,SIMULATED
+2024-04,BLR_ST01,Silk Board Junction,Summer,166,79.6,149.9,14,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-04,BLR_ST02,BTM Layout CAAQMS,Summer,95,54.4,95.2,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-04,BLR_ST03,Peenya Industrial Area,Summer,198,89.3,169.3,8,16,6,Moderate,PM2.5,DEMO,SIMULATED
+2024-04,BLR_ST04,Hebbal CAAQMS,Summer,128,68.3,132.5,19,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-04,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,113,63.2,118.7,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2024-04,BLR_ST06,Indiranagar 100ft Road,Summer,85,45.8,84.9,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-04,BLR_ST07,Jayanagar 4th Block,Summer,79,38.2,78.8,24,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-04,BLR_ST08,City Railway Station / Majestic,Summer,167,80.1,139.8,15,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-04,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,80,42.5,79.3,20,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-04,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,135,70.2,131.9,17,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-04,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,71,36.5,70.4,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-04,BLR_ST12,Yelahanka New Town,Summer,75,40.8,74.4,24,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-04,BLR_ST13,Electronic City Phase 1,Summer,106,57.8,108.2,19,13,0,Moderate,PM10,DEMO,SIMULATED
+2024-04,BLR_ST14,Mysore Road / Nayandahalli,Summer,147,73.9,141.5,14,12,4,Moderate,PM2.5,DEMO,SIMULATED
+2024-05,BLR_ST01,Silk Board Junction,Summer,160,77.8,148.9,14,15,1,Moderate,PM2.5,DEMO,SIMULATED
+2024-05,BLR_ST02,BTM Layout CAAQMS,Summer,106,53.0,108.3,19,15,0,Moderate,PM10,DEMO,SIMULATED
+2024-05,BLR_ST03,Peenya Industrial Area,Summer,218,95.3,163.7,6,18,6,Poor,PM2.5,DEMO,SIMULATED
+2024-05,BLR_ST04,Hebbal CAAQMS,Summer,142,72.5,126.8,15,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-05,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,118,63.2,126.3,17,13,0,Moderate,PM10,DEMO,SIMULATED
+2024-05,BLR_ST06,Indiranagar 100ft Road,Summer,85,49.7,84.7,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-05,BLR_ST07,Jayanagar 4th Block,Summer,82,36.8,81.3,20,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-05,BLR_ST08,City Railway Station / Majestic,Summer,171,81.1,143.8,10,13,7,Moderate,PM2.5,DEMO,SIMULATED
+2024-05,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,87,43.8,87.1,23,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-05,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,168,80.3,140.1,13,14,3,Moderate,PM2.5,DEMO,SIMULATED
+2024-05,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,71,34.7,70.7,24,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-05,BLR_ST12,Yelahanka New Town,Summer,79,39.5,78.5,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-05,BLR_ST13,Electronic City Phase 1,Summer,106,59.5,107.2,18,12,0,Moderate,PM10,DEMO,SIMULATED
+2024-05,BLR_ST14,Mysore Road / Nayandahalli,Summer,129,68.4,135.1,15,13,2,Moderate,PM2.5,DEMO,SIMULATED
+2024-06,BLR_ST01,Silk Board Junction,Monsoon,98,55.9,97.9,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST02,BTM Layout CAAQMS,Monsoon,72,33.9,71.9,24,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST03,Peenya Industrial Area,Monsoon,113,61.7,118.0,17,14,0,Moderate,PM10,DEMO,SIMULATED
+2024-06,BLR_ST04,Hebbal CAAQMS,Monsoon,84,47.1,83.5,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,80,42.9,79.2,20,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST06,Indiranagar 100ft Road,Monsoon,55,29.6,54.0,26,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST07,Jayanagar 4th Block,Monsoon,49,24.2,48.9,25,16,0,Good,PM10,DEMO,SIMULATED
+2024-06,BLR_ST08,City Railway Station / Majestic,Monsoon,98,52.6,97.8,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,57,27.2,55.7,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,97,45.5,96.9,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,23.6,42.7,26,13,0,Good,O3,DEMO,SIMULATED
+2024-06,BLR_ST12,Yelahanka New Town,Monsoon,52,27.5,51.4,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST13,Electronic City Phase 1,Monsoon,80,39.2,79.2,24,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-06,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,83,46.6,82.3,20,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST01,Silk Board Junction,Monsoon,93,51.6,92.9,20,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST02,BTM Layout CAAQMS,Monsoon,69,32.5,68.4,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST03,Peenya Industrial Area,Monsoon,105,56.8,105.8,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2024-07,BLR_ST04,Hebbal CAAQMS,Monsoon,85,46.0,84.5,19,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,86,44.7,85.4,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST06,Indiranagar 100ft Road,Monsoon,60,31.1,59.5,23,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST07,Jayanagar 4th Block,Monsoon,48,24.9,48.3,25,12,0,Good,PM10,DEMO,SIMULATED
+2024-07,BLR_ST08,City Railway Station / Majestic,Monsoon,96,47.1,96.4,18,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,52,30.6,51.3,22,13,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2024-07,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,87,45.2,86.6,19,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,24.3,43.4,26,16,0,Good,O3,DEMO,SIMULATED
+2024-07,BLR_ST12,Yelahanka New Town,Monsoon,53,27.7,51.7,22,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST13,Electronic City Phase 1,Monsoon,78,37.7,77.4,20,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-07,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,95,47.4,94.5,18,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST01,Silk Board Junction,Monsoon,93,56.0,89.8,22,17,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2024-08,BLR_ST02,BTM Layout CAAQMS,Monsoon,67,37.8,66.0,23,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST03,Peenya Industrial Area,Monsoon,115,61.8,120.5,18,16,0,Moderate,PM10,DEMO,SIMULATED
+2024-08,BLR_ST04,Hebbal CAAQMS,Monsoon,81,41.8,81.1,21,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,87,44.6,87.2,19,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST06,Indiranagar 100ft Road,Monsoon,58,31.4,57.4,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST07,Jayanagar 4th Block,Monsoon,47,25.9,47.0,24,16,0,Good,PM10,DEMO,SIMULATED
+2024-08,BLR_ST08,City Railway Station / Majestic,Monsoon,93,52.3,92.7,18,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,54,29.2,52.8,25,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,97,49.6,96.7,19,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,22.6,43.5,25,17,0,Good,O3,DEMO,SIMULATED
+2024-08,BLR_ST12,Yelahanka New Town,Monsoon,56,25.7,55.1,25,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST13,Electronic City Phase 1,Monsoon,76,42.0,75.4,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-08,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,92,45.3,92.1,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST01,Silk Board Junction,Monsoon,98,55.3,98.2,22,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST02,BTM Layout CAAQMS,Monsoon,70,33.7,69.8,23,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST03,Peenya Industrial Area,Monsoon,115,64.3,113.6,19,12,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-09,BLR_ST04,Hebbal CAAQMS,Monsoon,94,46.8,93.8,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,88,41.7,87.7,21,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST06,Indiranagar 100ft Road,Monsoon,56,29.3,54.6,24,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST07,Jayanagar 4th Block,Monsoon,53,27.0,52.4,24,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST08,City Railway Station / Majestic,Monsoon,95,50.4,95.0,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,55,26.7,53.7,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,97,46.5,96.8,19,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,22.9,42.8,27,15,0,Good,O3,DEMO,SIMULATED
+2024-09,BLR_ST12,Yelahanka New Town,Monsoon,49,27.5,48.7,23,17,0,Good,PM10,DEMO,SIMULATED
+2024-09,BLR_ST13,Electronic City Phase 1,Monsoon,75,38.3,74.6,23,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-09,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,91,49.2,91.3,18,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-10,BLR_ST01,Silk Board Junction,Post-Monsoon,222,96.3,157.8,9,15,6,Poor,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST02,BTM Layout CAAQMS,Post-Monsoon,107,58.2,109.7,19,14,0,Moderate,PM10,DEMO,SIMULATED
+2024-10,BLR_ST03,Peenya Industrial Area,Post-Monsoon,274,112.0,200.1,1,18,11,Poor,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST04,Hebbal CAAQMS,Post-Monsoon,177,83.1,159.7,14,12,4,Moderate,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST05,Whitefield Export Promotion Industrial Park,Post-Monsoon,150,75.0,146.4,13,14,3,Moderate,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST06,Indiranagar 100ft Road,Post-Monsoon,98,53.6,97.9,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-10,BLR_ST07,Jayanagar 4th Block,Post-Monsoon,89,44.3,89.1,20,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-10,BLR_ST08,City Railway Station / Majestic,Post-Monsoon,205,91.3,179.0,10,18,2,Poor,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Post-Monsoon,96,51.2,95.5,19,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-10,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Post-Monsoon,175,82.3,158.1,11,14,5,Moderate,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Post-Monsoon,79,39.2,78.9,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-10,BLR_ST12,Yelahanka New Town,Post-Monsoon,84,47.2,84.0,23,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-10,BLR_ST13,Electronic City Phase 1,Post-Monsoon,143,72.6,124.2,14,15,1,Moderate,PM2.5,DEMO,SIMULATED
+2024-10,BLR_ST14,Mysore Road / Nayandahalli,Post-Monsoon,175,82.4,155.7,14,13,3,Moderate,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST01,Silk Board Junction,Post-Monsoon,218,95.1,184.0,10,13,7,Poor,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST02,BTM Layout CAAQMS,Post-Monsoon,110,59.8,113.7,20,14,0,Moderate,PM10,DEMO,SIMULATED
+2024-11,BLR_ST03,Peenya Industrial Area,Post-Monsoon,263,108.7,204.7,1,17,12,Poor,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST04,Hebbal CAAQMS,Post-Monsoon,162,78.6,150.3,12,14,4,Moderate,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST05,Whitefield Export Promotion Industrial Park,Post-Monsoon,139,71.6,147.0,16,13,1,Moderate,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST06,Indiranagar 100ft Road,Post-Monsoon,103,57.6,102.7,20,16,0,Moderate,PM10,DEMO,SIMULATED
+2024-11,BLR_ST07,Jayanagar 4th Block,Post-Monsoon,80,43.0,80.1,21,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-11,BLR_ST08,City Railway Station / Majestic,Post-Monsoon,206,91.4,156.7,7,12,11,Poor,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Post-Monsoon,92,52.3,91.5,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-11,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Post-Monsoon,202,90.2,169.0,7,14,9,Poor,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Post-Monsoon,74,43.3,73.1,23,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-11,BLR_ST12,Yelahanka New Town,Post-Monsoon,86,44.3,85.8,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-11,BLR_ST13,Electronic City Phase 1,Post-Monsoon,122,66.3,132.5,17,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2024-11,BLR_ST14,Mysore Road / Nayandahalli,Post-Monsoon,172,81.4,161.7,11,17,2,Moderate,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST01,Silk Board Junction,Winter,265,109.3,176.9,5,17,8,Poor,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST02,BTM Layout CAAQMS,Winter,136,70.5,127.6,14,14,2,Moderate,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST03,Peenya Industrial Area,Winter,277,113.1,234.6,2,12,16,Poor,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST04,Hebbal CAAQMS,Winter,197,89.1,185.1,8,15,7,Moderate,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,183,84.7,165.5,11,18,1,Moderate,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST06,Indiranagar 100ft Road,Winter,107,56.3,109.6,20,13,0,Moderate,PM10,DEMO,SIMULATED
+2024-12,BLR_ST07,Jayanagar 4th Block,Winter,97,55.2,97.3,18,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-12,BLR_ST08,City Railway Station / Majestic,Winter,233,99.7,189.5,4,13,13,Poor,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,111,54.0,115.3,20,17,0,Moderate,PM10,DEMO,SIMULATED
+2024-12,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,195,88.5,173.6,12,14,4,Moderate,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,87,46.0,86.3,20,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-12,BLR_ST12,Yelahanka New Town,Winter,99,52.7,98.9,20,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2024-12,BLR_ST13,Electronic City Phase 1,Winter,182,84.5,159.9,11,18,1,Moderate,PM2.5,DEMO,SIMULATED
+2024-12,BLR_ST14,Mysore Road / Nayandahalli,Winter,185,85.4,168.7,12,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST01,Silk Board Junction,Winter,281,114.3,205.3,1,13,16,Poor,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST02,BTM Layout CAAQMS,Winter,128,66.3,141.3,16,12,2,Moderate,PM10,DEMO,SIMULATED
+2025-01,BLR_ST03,Peenya Industrial Area,Winter,303,123.2,228.2,1,18,11,Very Poor,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST04,Hebbal CAAQMS,Winter,206,91.4,165.3,8,16,6,Poor,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,160,78.0,173.5,16,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST06,Indiranagar 100ft Road,Winter,105,59.6,106.7,18,16,0,Moderate,PM10,DEMO,SIMULATED
+2025-01,BLR_ST07,Jayanagar 4th Block,Winter,102,51.6,101.9,18,14,0,Moderate,PM10,DEMO,SIMULATED
+2025-01,BLR_ST08,City Railway Station / Majestic,Winter,244,102.9,198.5,4,15,11,Poor,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,111,61.2,115.5,17,17,0,Moderate,PM10,DEMO,SIMULATED
+2025-01,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,242,102.5,193.0,5,12,13,Poor,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,94,47.7,94.0,18,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-01,BLR_ST12,Yelahanka New Town,Winter,106,52.4,107.4,17,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-01,BLR_ST13,Electronic City Phase 1,Winter,154,76.0,159.7,15,14,1,Moderate,PM2.5,DEMO,SIMULATED
+2025-01,BLR_ST14,Mysore Road / Nayandahalli,Winter,204,91.0,187.7,9,13,8,Poor,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST01,Silk Board Junction,Winter,269,110.7,179.6,2,12,16,Poor,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST02,BTM Layout CAAQMS,Winter,144,73.1,135.2,15,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST03,Peenya Industrial Area,Winter,301,120.1,217.7,1,13,16,Very Poor,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST04,Hebbal CAAQMS,Winter,209,92.3,168.9,10,13,7,Poor,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,176,82.7,164.0,12,13,5,Moderate,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST06,Indiranagar 100ft Road,Winter,113,63.5,113.2,17,13,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST07,Jayanagar 4th Block,Winter,90,48.8,89.9,19,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-02,BLR_ST08,City Railway Station / Majestic,Winter,257,107.1,178.3,3,18,9,Poor,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,102,54.0,101.8,20,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-02,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,226,97.6,186.3,8,13,9,Poor,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,92,46.7,91.6,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-02,BLR_ST12,Yelahanka New Town,Winter,104,56.8,104.8,20,16,0,Moderate,PM10,DEMO,SIMULATED
+2025-02,BLR_ST13,Electronic City Phase 1,Winter,180,83.8,150.2,14,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-02,BLR_ST14,Mysore Road / Nayandahalli,Winter,214,93.9,181.2,6,16,8,Poor,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST01,Silk Board Junction,Summer,158,77.3,148.1,12,13,5,Moderate,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST02,BTM Layout CAAQMS,Summer,102,54.8,101.6,17,16,0,Moderate,PM10,DEMO,SIMULATED
+2025-03,BLR_ST03,Peenya Industrial Area,Summer,203,90.7,184.4,7,13,10,Poor,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST04,Hebbal CAAQMS,Summer,125,67.4,132.2,17,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,126,67.6,124.7,18,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST06,Indiranagar 100ft Road,Summer,82,47.6,81.9,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-03,BLR_ST07,Jayanagar 4th Block,Summer,78,39.7,77.4,20,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-03,BLR_ST08,City Railway Station / Majestic,Summer,159,77.7,137.7,16,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,82,44.4,82.0,21,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-03,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,130,68.9,139.7,16,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-03,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,67,34.3,66.3,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-03,BLR_ST12,Yelahanka New Town,Summer,74,43.6,73.6,23,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-03,BLR_ST13,Electronic City Phase 1,Summer,111,59.6,115.9,19,17,0,Moderate,PM10,DEMO,SIMULATED
+2025-03,BLR_ST14,Mysore Road / Nayandahalli,Summer,150,74.7,136.8,14,15,1,Moderate,PM2.5,DEMO,SIMULATED
+2025-04,BLR_ST01,Silk Board Junction,Summer,177,83.1,138.2,11,14,5,Moderate,PM2.5,DEMO,SIMULATED
+2025-04,BLR_ST02,BTM Layout CAAQMS,Summer,105,55.2,106.0,18,13,0,Moderate,PM10,DEMO,SIMULATED
+2025-04,BLR_ST03,Peenya Industrial Area,Summer,227,97.9,167.8,5,15,10,Poor,PM2.5,DEMO,SIMULATED
+2025-04,BLR_ST04,Hebbal CAAQMS,Summer,127,67.6,139.3,18,14,0,Moderate,PM10,DEMO,SIMULATED
+2025-04,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,119,65.6,117.8,17,13,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-04,BLR_ST06,Indiranagar 100ft Road,Summer,92,43.0,91.9,18,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-04,BLR_ST07,Jayanagar 4th Block,Summer,76,39.9,75.6,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-04,BLR_ST08,City Railway Station / Majestic,Summer,175,82.5,139.0,14,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-04,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,83,43.9,82.3,19,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-04,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,153,75.7,135.0,16,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-04,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,70,37.5,68.9,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-04,BLR_ST12,Yelahanka New Town,Summer,74,39.9,73.1,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-04,BLR_ST13,Electronic City Phase 1,Summer,106,57.4,106.9,21,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-04,BLR_ST14,Mysore Road / Nayandahalli,Summer,143,72.6,132.8,13,12,5,Moderate,PM2.5,DEMO,SIMULATED
+2025-05,BLR_ST01,Silk Board Junction,Summer,158,77.3,160.9,13,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-05,BLR_ST02,BTM Layout CAAQMS,Summer,105,52.7,106.0,21,16,0,Moderate,PM10,DEMO,SIMULATED
+2025-05,BLR_ST03,Peenya Industrial Area,Summer,223,96.6,167.8,8,17,5,Poor,PM2.5,DEMO,SIMULATED
+2025-05,BLR_ST04,Hebbal CAAQMS,Summer,136,70.6,143.7,14,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-05,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,116,62.2,122.8,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-05,BLR_ST06,Indiranagar 100ft Road,Summer,87,43.5,87.2,23,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-05,BLR_ST07,Jayanagar 4th Block,Summer,72,38.6,71.2,22,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-05,BLR_ST08,City Railway Station / Majestic,Summer,160,78.0,145.7,13,16,1,Moderate,PM2.5,DEMO,SIMULATED
+2025-05,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,85,41.0,84.4,23,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-05,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,149,74.4,144.9,15,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-05,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,67,37.4,66.2,25,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-05,BLR_ST12,Yelahanka New Town,Summer,77,45.3,76.9,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-05,BLR_ST13,Electronic City Phase 1,Summer,111,61.5,115.9,19,15,0,Moderate,PM10,DEMO,SIMULATED
+2025-05,BLR_ST14,Mysore Road / Nayandahalli,Summer,150,74.9,144.9,14,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-06,BLR_ST01,Silk Board Junction,Monsoon,92,51.6,91.8,18,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST02,BTM Layout CAAQMS,Monsoon,71,35.2,70.1,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST03,Peenya Industrial Area,Monsoon,110,60.9,113.0,17,14,0,Moderate,PM10,DEMO,SIMULATED
+2025-06,BLR_ST04,Hebbal CAAQMS,Monsoon,91,44.1,91.3,19,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,84,42.6,83.7,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST06,Indiranagar 100ft Road,Monsoon,56,28.2,55.3,26,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST07,Jayanagar 4th Block,Monsoon,46,26.9,45.9,25,14,0,Good,PM10,DEMO,SIMULATED
+2025-06,BLR_ST08,City Railway Station / Majestic,Monsoon,95,49.5,95.0,18,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,54,27.1,52.6,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,91,48.1,90.7,18,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,22.4,41.8,26,18,0,Good,O3,DEMO,SIMULATED
+2025-06,BLR_ST12,Yelahanka New Town,Monsoon,50,27.4,49.7,26,17,0,Good,PM10,DEMO,SIMULATED
+2025-06,BLR_ST13,Electronic City Phase 1,Monsoon,76,36.6,75.1,24,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-06,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,89,47.6,89.2,19,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST01,Silk Board Junction,Monsoon,94,54.0,94.0,20,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST02,BTM Layout CAAQMS,Monsoon,65,38.0,64.6,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST03,Peenya Industrial Area,Monsoon,116,64.5,116.9,17,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-07,BLR_ST04,Hebbal CAAQMS,Monsoon,83,45.9,82.7,19,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,79,43.5,78.8,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST06,Indiranagar 100ft Road,Monsoon,57,28.0,56.3,25,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST07,Jayanagar 4th Block,Monsoon,52,25.3,51.5,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST08,City Railway Station / Majestic,Monsoon,89,50.5,89.1,21,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,52,26.4,51.5,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,96,48.3,95.5,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,47,22.6,47.2,27,14,0,Good,PM10,DEMO,SIMULATED
+2025-07,BLR_ST12,Yelahanka New Town,Monsoon,48,28.4,48.1,23,18,0,Good,PM10,DEMO,SIMULATED
+2025-07,BLR_ST13,Electronic City Phase 1,Monsoon,76,42.5,75.0,21,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-07,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,88,47.9,87.8,23,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST01,Silk Board Junction,Monsoon,103,49.1,103.2,21,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-08,BLR_ST02,BTM Layout CAAQMS,Monsoon,67,33.0,66.6,21,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST03,Peenya Industrial Area,Monsoon,113,60.0,117.5,18,12,0,Moderate,PM10,DEMO,SIMULATED
+2025-08,BLR_ST04,Hebbal CAAQMS,Monsoon,85,45.7,84.4,20,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,79,39.6,78.5,24,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST06,Indiranagar 100ft Road,Monsoon,60,31.6,58.7,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST07,Jayanagar 4th Block,Monsoon,46,24.4,45.9,27,16,0,Good,PM10,DEMO,SIMULATED
+2025-08,BLR_ST08,City Railway Station / Majestic,Monsoon,90,50.4,89.6,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,52,27.7,51.0,24,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,85,46.3,84.9,23,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,24.0,41.0,23,15,0,Good,O3,DEMO,SIMULATED
+2025-08,BLR_ST12,Yelahanka New Town,Monsoon,48,29.0,47.3,26,12,0,Good,PM2.5,DEMO,SIMULATED
+2025-08,BLR_ST13,Electronic City Phase 1,Monsoon,74,36.8,73.5,24,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-08,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,91,47.2,91.1,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST01,Silk Board Junction,Monsoon,94,52.1,94.0,19,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST02,BTM Layout CAAQMS,Monsoon,71,36.8,70.2,20,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST03,Peenya Industrial Area,Monsoon,111,62.4,115.8,16,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-09,BLR_ST04,Hebbal CAAQMS,Monsoon,90,47.3,89.8,19,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,83,40.4,83.1,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST06,Indiranagar 100ft Road,Monsoon,56,29.0,54.6,26,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST07,Jayanagar 4th Block,Monsoon,48,27.5,48.1,25,18,0,Good,PM10,DEMO,SIMULATED
+2025-09,BLR_ST08,City Railway Station / Majestic,Monsoon,91,53.2,91.3,21,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,52,26.6,50.7,25,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,88,51.0,87.9,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,24.1,44.3,26,18,0,Good,O3,DEMO,SIMULATED
+2025-09,BLR_ST12,Yelahanka New Town,Monsoon,48,28.1,47.8,27,17,0,Good,PM10,DEMO,SIMULATED
+2025-09,BLR_ST13,Electronic City Phase 1,Monsoon,73,36.7,72.4,23,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-09,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,85,46.9,84.7,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-10,BLR_ST01,Silk Board Junction,Post-Monsoon,197,89.1,169.9,8,14,8,Moderate,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST02,BTM Layout CAAQMS,Post-Monsoon,115,59.5,121.7,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-10,BLR_ST03,Peenya Industrial Area,Post-Monsoon,279,113.7,204.4,2,16,12,Poor,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST04,Hebbal CAAQMS,Post-Monsoon,174,82.2,145.6,10,17,3,Moderate,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST05,Whitefield Export Promotion Industrial Park,Post-Monsoon,162,78.5,145.1,14,12,4,Moderate,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST06,Indiranagar 100ft Road,Post-Monsoon,101,54.2,100.2,21,12,0,Moderate,PM10,DEMO,SIMULATED
+2025-10,BLR_ST07,Jayanagar 4th Block,Post-Monsoon,82,47.9,81.9,22,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-10,BLR_ST08,City Railway Station / Majestic,Post-Monsoon,202,90.2,170.8,11,18,1,Poor,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Post-Monsoon,93,53.0,92.8,18,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-10,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Post-Monsoon,172,81.4,151.5,14,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Post-Monsoon,72,42.9,71.8,21,17,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST12,Yelahanka New Town,Post-Monsoon,91,45.3,90.5,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-10,BLR_ST13,Electronic City Phase 1,Post-Monsoon,136,70.5,125.6,16,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-10,BLR_ST14,Mysore Road / Nayandahalli,Post-Monsoon,175,82.5,166.3,12,15,3,Moderate,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST01,Silk Board Junction,Post-Monsoon,226,97.5,181.7,5,16,9,Poor,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST02,BTM Layout CAAQMS,Post-Monsoon,119,57.5,127.3,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-11,BLR_ST03,Peenya Industrial Area,Post-Monsoon,232,99.3,195.5,6,16,8,Poor,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST04,Hebbal CAAQMS,Post-Monsoon,185,85.6,141.3,13,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST05,Whitefield Export Promotion Industrial Park,Post-Monsoon,164,79.1,134.4,13,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST06,Indiranagar 100ft Road,Post-Monsoon,100,49.4,99.7,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-11,BLR_ST07,Jayanagar 4th Block,Post-Monsoon,90,46.5,89.3,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-11,BLR_ST08,City Railway Station / Majestic,Post-Monsoon,193,87.9,158.2,9,15,6,Moderate,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Post-Monsoon,96,47.5,96.2,20,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-11,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Post-Monsoon,181,84.1,155.4,10,13,7,Moderate,PM2.5,DEMO,SIMULATED
+2025-11,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Post-Monsoon,80,38.7,79.9,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-11,BLR_ST12,Yelahanka New Town,Post-Monsoon,92,51.0,92.3,19,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-11,BLR_ST13,Electronic City Phase 1,Post-Monsoon,126,65.6,138.5,18,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-11,BLR_ST14,Mysore Road / Nayandahalli,Post-Monsoon,181,84.2,166.7,13,13,4,Moderate,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST01,Silk Board Junction,Winter,251,105.2,189.4,5,15,10,Poor,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST02,BTM Layout CAAQMS,Winter,129,68.6,126.2,19,12,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST03,Peenya Industrial Area,Winter,301,120.3,240.1,1,17,12,Very Poor,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST04,Hebbal CAAQMS,Winter,199,89.7,170.3,12,16,2,Moderate,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,170,80.9,173.7,15,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST06,Indiranagar 100ft Road,Winter,108,62.0,106.4,20,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST07,Jayanagar 4th Block,Winter,102,47.9,100.8,21,18,0,Moderate,PM10,DEMO,SIMULATED
+2025-12,BLR_ST08,City Railway Station / Majestic,Winter,259,107.6,194.9,5,16,9,Poor,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,110,52.9,114.0,17,13,0,Moderate,PM10,DEMO,SIMULATED
+2025-12,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,219,95.4,187.9,6,17,7,Poor,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,92,48.3,91.9,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-12,BLR_ST12,Yelahanka New Town,Winter,99,50.1,98.7,18,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2025-12,BLR_ST13,Electronic City Phase 1,Winter,159,77.7,158.1,16,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2025-12,BLR_ST14,Mysore Road / Nayandahalli,Winter,198,89.3,171.4,10,14,6,Moderate,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST01,Silk Board Junction,Winter,235,100.3,197.7,8,17,5,Poor,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST02,BTM Layout CAAQMS,Winter,127,68.0,138.9,17,12,1,Moderate,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST03,Peenya Industrial Area,Winter,302,121.3,230.3,1,12,17,Very Poor,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST04,Hebbal CAAQMS,Winter,207,91.9,167.0,11,12,7,Poor,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,166,79.8,150.5,15,12,3,Moderate,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST06,Indiranagar 100ft Road,Winter,113,63.5,109.4,17,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST07,Jayanagar 4th Block,Winter,103,49.5,102.8,17,17,0,Moderate,PM10,DEMO,SIMULATED
+2026-01,BLR_ST08,City Railway Station / Majestic,Winter,213,93.7,176.9,10,17,3,Poor,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,105,53.5,106.4,18,14,0,Moderate,PM10,DEMO,SIMULATED
+2026-01,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,235,100.2,173.3,5,18,7,Poor,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,82,47.5,81.2,19,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-01,BLR_ST12,Yelahanka New Town,Winter,105,54.8,106.5,20,18,0,Moderate,PM10,DEMO,SIMULATED
+2026-01,BLR_ST13,Electronic City Phase 1,Winter,182,84.5,154.9,10,17,3,Moderate,PM2.5,DEMO,SIMULATED
+2026-01,BLR_ST14,Mysore Road / Nayandahalli,Winter,204,90.9,179.4,8,16,6,Poor,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST01,Silk Board Junction,Winter,267,109.9,186.9,3,18,9,Poor,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST02,BTM Layout CAAQMS,Winter,147,73.8,123.3,16,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST03,Peenya Industrial Area,Winter,294,118.3,226.6,2,13,15,Poor,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST04,Hebbal CAAQMS,Winter,193,87.9,178.5,11,14,5,Moderate,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST05,Whitefield Export Promotion Industrial Park,Winter,160,77.9,170.9,12,14,4,Moderate,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST06,Indiranagar 100ft Road,Winter,115,64.2,112.5,18,16,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST07,Jayanagar 4th Block,Winter,90,52.8,90.1,23,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-02,BLR_ST08,City Railway Station / Majestic,Winter,226,97.6,196.8,9,17,4,Poor,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Winter,104,60.0,104.5,19,18,0,Moderate,PM10,DEMO,SIMULATED
+2026-02,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Winter,199,89.7,185.4,11,15,4,Moderate,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Winter,91,49.3,91.2,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-02,BLR_ST12,Yelahanka New Town,Winter,99,51.4,98.6,19,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-02,BLR_ST13,Electronic City Phase 1,Winter,163,78.9,152.6,11,12,7,Moderate,PM2.5,DEMO,SIMULATED
+2026-02,BLR_ST14,Mysore Road / Nayandahalli,Winter,203,90.5,176.2,10,14,6,Poor,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST01,Silk Board Junction,Summer,163,78.7,143.9,12,12,6,Moderate,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST02,BTM Layout CAAQMS,Summer,97,50.4,96.6,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-03,BLR_ST03,Peenya Industrial Area,Summer,228,98.2,168.9,9,17,4,Poor,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST04,Hebbal CAAQMS,Summer,130,65.5,144.2,15,18,0,Moderate,PM10,DEMO,SIMULATED
+2026-03,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,118,65.3,123.0,20,18,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST06,Indiranagar 100ft Road,Summer,94,50.2,93.8,19,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-03,BLR_ST07,Jayanagar 4th Block,Summer,78,38.6,77.5,20,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-03,BLR_ST08,City Railway Station / Majestic,Summer,157,77.1,156.6,15,17,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,87,46.9,87.1,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-03,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,136,70.5,131.1,14,15,1,Moderate,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,74,36.1,73.7,22,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-03,BLR_ST12,Yelahanka New Town,Summer,78,40.4,78.0,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-03,BLR_ST13,Electronic City Phase 1,Summer,108,62.0,109.6,20,12,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-03,BLR_ST14,Mysore Road / Nayandahalli,Summer,129,67.3,142.4,16,16,0,Moderate,PM10,DEMO,SIMULATED
+2026-04,BLR_ST01,Silk Board Junction,Summer,181,84.3,158.9,11,12,7,Moderate,PM2.5,DEMO,SIMULATED
+2026-04,BLR_ST02,BTM Layout CAAQMS,Summer,96,50.5,96.2,20,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-04,BLR_ST03,Peenya Industrial Area,Summer,206,91.6,188.1,8,17,5,Poor,PM2.5,DEMO,SIMULATED
+2026-04,BLR_ST04,Hebbal CAAQMS,Summer,138,71.3,143.7,17,14,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-04,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,116,60.7,122.1,19,16,0,Moderate,PM10,DEMO,SIMULATED
+2026-04,BLR_ST06,Indiranagar 100ft Road,Summer,91,43.0,91.1,21,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-04,BLR_ST07,Jayanagar 4th Block,Summer,80,39.5,79.8,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-04,BLR_ST08,City Railway Station / Majestic,Summer,148,74.3,142.4,16,12,2,Moderate,PM2.5,DEMO,SIMULATED
+2026-04,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,90,44.6,89.3,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-04,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,156,76.7,138.5,12,14,4,Moderate,PM2.5,DEMO,SIMULATED
+2026-04,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,74,37.0,73.3,20,18,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-04,BLR_ST12,Yelahanka New Town,Summer,82,41.7,82.1,20,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-04,BLR_ST13,Electronic City Phase 1,Summer,117,61.4,124.1,17,14,0,Moderate,PM10,DEMO,SIMULATED
+2026-04,BLR_ST14,Mysore Road / Nayandahalli,Summer,146,73.6,145.2,15,15,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST01,Silk Board Junction,Summer,157,77.0,152.3,13,13,4,Moderate,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST02,BTM Layout CAAQMS,Summer,96,50.5,95.5,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-05,BLR_ST03,Peenya Industrial Area,Summer,208,92.2,164.6,11,17,2,Poor,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST04,Hebbal CAAQMS,Summer,126,67.6,135.1,18,12,0,Moderate,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST05,Whitefield Export Promotion Industrial Park,Summer,112,59.5,116.6,16,15,0,Moderate,PM10,DEMO,SIMULATED
+2026-05,BLR_ST06,Indiranagar 100ft Road,Summer,93,43.9,92.5,22,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-05,BLR_ST07,Jayanagar 4th Block,Summer,80,42.7,80.1,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-05,BLR_ST08,City Railway Station / Majestic,Summer,169,80.7,138.9,11,12,7,Moderate,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Summer,84,45.8,83.3,19,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-05,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Summer,165,79.4,143.4,12,17,1,Moderate,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Summer,64,37.6,62.9,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-05,BLR_ST12,Yelahanka New Town,Summer,74,44.2,73.7,24,13,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST13,Electronic City Phase 1,Summer,115,64.2,107.4,16,12,2,Moderate,PM2.5,DEMO,SIMULATED
+2026-05,BLR_ST14,Mysore Road / Nayandahalli,Summer,139,71.4,143.0,15,12,3,Moderate,PM2.5,DEMO,SIMULATED
+2026-06,BLR_ST01,Silk Board Junction,Monsoon,95,56.0,95.4,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST02,BTM Layout CAAQMS,Monsoon,70,33.2,68.9,25,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST03,Peenya Industrial Area,Monsoon,116,58.1,123.1,17,18,0,Moderate,PM10,DEMO,SIMULATED
+2026-06,BLR_ST04,Hebbal CAAQMS,Monsoon,83,41.9,82.5,19,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,85,40.1,84.6,20,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST06,Indiranagar 100ft Road,Monsoon,55,29.6,54.1,23,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST07,Jayanagar 4th Block,Monsoon,46,23.9,45.8,27,15,0,Good,PM10,DEMO,SIMULATED
+2026-06,BLR_ST08,City Railway Station / Majestic,Monsoon,88,52.6,86.7,22,12,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2026-06,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,52,26.3,51.3,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,97,49.5,96.8,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,46,25.0,46.1,24,13,0,Good,PM10,DEMO,SIMULATED
+2026-06,BLR_ST12,Yelahanka New Town,Monsoon,49,25.6,49.1,26,15,0,Good,PM10,DEMO,SIMULATED
+2026-06,BLR_ST13,Electronic City Phase 1,Monsoon,71,37.8,70.9,20,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-06,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,89,43.9,88.4,19,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST01,Silk Board Junction,Monsoon,94,56.2,93.5,21,12,0,Satisfactory,PM2.5,DEMO,SIMULATED
+2026-07,BLR_ST02,BTM Layout CAAQMS,Monsoon,64,35.7,63.6,25,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST03,Peenya Industrial Area,Monsoon,115,61.0,121.2,20,16,0,Moderate,PM10,DEMO,SIMULATED
+2026-07,BLR_ST04,Hebbal CAAQMS,Monsoon,91,43.1,90.8,19,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,77,38.6,76.2,21,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST06,Indiranagar 100ft Road,Monsoon,62,31.9,60.9,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST07,Jayanagar 4th Block,Monsoon,53,24.4,52.3,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST08,City Railway Station / Majestic,Monsoon,90,49.2,89.6,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,58,29.1,57.4,25,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,85,45.2,84.6,23,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,22.5,40.9,27,12,0,Good,O3,DEMO,SIMULATED
+2026-07,BLR_ST12,Yelahanka New Town,Monsoon,49,25.3,48.8,26,16,0,Good,PM10,DEMO,SIMULATED
+2026-07,BLR_ST13,Electronic City Phase 1,Monsoon,74,39.9,73.8,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-07,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,86,48.3,85.9,19,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST01,Silk Board Junction,Monsoon,103,55.4,102.3,20,13,0,Moderate,PM10,DEMO,SIMULATED
+2026-08,BLR_ST02,BTM Layout CAAQMS,Monsoon,68,32.9,67.8,21,15,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST03,Peenya Industrial Area,Monsoon,116,56.4,122.4,19,13,0,Moderate,PM10,DEMO,SIMULATED
+2026-08,BLR_ST04,Hebbal CAAQMS,Monsoon,82,44.3,82.0,20,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST05,Whitefield Export Promotion Industrial Park,Monsoon,79,40.7,78.3,22,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST06,Indiranagar 100ft Road,Monsoon,59,28.0,57.7,24,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST07,Jayanagar 4th Block,Monsoon,49,24.2,48.7,26,13,0,Good,PM10,DEMO,SIMULATED
+2026-08,BLR_ST08,City Railway Station / Majestic,Monsoon,90,52.4,89.8,21,16,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST09,Saneguruvanahalli (Basaveshwaranagar),Monsoon,57,27.0,56.6,26,13,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST10,BWSSB Kadabeesanahalli (Outer Ring Road),Monsoon,92,48.9,91.9,19,12,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST11,Hombegowda Nagar (Lalbagh Vicinity),Monsoon,45,23.5,44.4,24,16,0,Good,O3,DEMO,SIMULATED
+2026-08,BLR_ST12,Yelahanka New Town,Monsoon,52,27.1,50.7,22,17,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST13,Electronic City Phase 1,Monsoon,80,39.0,79.3,21,14,0,Satisfactory,PM10,DEMO,SIMULATED
+2026-08,BLR_ST14,Mysore Road / Nayandahalli,Monsoon,85,45.8,84.5,23,13,0,Satisfactory,PM10,DEMO,SIMULATED

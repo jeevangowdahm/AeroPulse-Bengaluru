@@ -1,0 +1,9 @@
+source_category,pm10_percentage,pm25_percentage,description,confidence,reference_study
+Road & Soil Dust Resuspension,51.1,18.2,"Unpaved shoulders, heavy axle traffic, silt loading",High,KSPCB / CSTEP Comprehensive Study
+Transportation & Vehicular Exhaust,18.6,39.9,"2-wheelers, diesel buses, goods freight, stop-and-go idling",High,Bengaluru Clean Air Action Plan
+Construction & Demolition Activity,6.0,4.5,"Metro lines, flyovers, real-estate highrises, concrete batching",High,NCAP Source Inventory
+Industrial Activity & Power,8.5,14.8,"Peenya, Bommasandra, Bidadi industrial estates, electroplating, boilers",High,KSPCB Industrial Register
+"Biomass, Waste & Leaf Burning",5.2,7.8,"Municipal open solid waste burning, peri-urban agri burning",Medium,Field Surveys & Thermal Spotting
+Diesel Generator Sets (DG Sets),3.8,6.5,Commercial backup power in IT corridors & hospitals,Medium,Energy & Emissions Audit
+Domestic & Commercial Cooking,2.8,4.2,"LPG, tandoor coal, wood stoves, street food preparation",Medium,Socio-economic Survey
+Secondary Aerosols & Atmospheric Reactions,4.0,11.2,"Sulfate, nitrate, ammonium gas-to-particle conversion",High,Chemical Speciation Network

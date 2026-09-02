@@ -1,0 +1,9 @@
+source_id,source_type,area,latitude,longitude,pollutant,estimated_contribution,confidence,data_source
+SRC_001,Road Dust Resuspension,Outer Ring Road (Silk Board to Marathahalli),12.935,77.68,PM10,51.1,High,CSTEP / KSPCB Source Apportionment Study
+SRC_002,Vehicular Transport,Hosur Road - Silk Board Junction Corridor,12.9176,77.6238,PM2.5,39.5,High,Emissions Inventory Bengaluru
+SRC_003,Industrial Emissions,Peenya Industrial Area Stage 1 & 2,13.0285,77.5197,PM2.5 / SO2 / NO2,14.8,High,KSPCB Industrial Audit
+SRC_004,Construction & Demolition,Metro Phase 2A/2B Airport Line & ORR,13.01,77.62,PM10,6.0,Medium,Karnataka State Clean Air Action Plan
+SRC_005,Biomass & Waste Burning,Bellandur / Varthur Periphery & Open Plots,12.94,77.71,PM2.5 / CO,7.8,Medium,CPCB Satellite Thermal Anomalies
+SRC_006,Diesel Generator (DG) Sets,Commercial Tech Parks & Backup Utilities,12.98,77.72,PM2.5 / NO2,6.5,Medium,Bengaluru Urban Energy Study
+SRC_007,Domestic Cooking & Combustion,Dense Urban Slums & Street Food Corridors,12.965,77.58,PM2.5,4.2,Medium,National Clean Air Programme (NCAP)
+SRC_008,Secondary Particulate Formation,Atmospheric Ammonia & Sulfate Conversion,12.9716,77.5946,PM2.5,11.2,High,Atmospheric Chemistry & Modeling Study

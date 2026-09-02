@@ -1,0 +1,9 @@
+hotspot_id,hotspot_name,latitude,longitude,zone,current_aqi,aqi_category,primary_cause,dominant_emission_type,priority_level
+HOT_001,Central Silk Board Junction,12.9176,77.6238,South,228,Poor,"Severe vehicle choke point connecting Hosur Rd, BTM, and HSR Layout",Traffic Congestion & Road Dust,Critical
+HOT_002,Peenya 2nd Stage Industrial Area,13.0285,77.5197,West,242,Poor,"High concentration of small & medium manufacturing, forging, and heavy transport",Industrial Boilers & Heavy Diesel Freight,Critical
+HOT_003,KR Puram Hanging Bridge & Tin Factory,13.0035,77.6845,East,215,Poor,Bottle-neck between Old Madras Road and Outer Ring Road with unpaved road dust,Traffic bottleneck & Heavy Truck Transit,High
+HOT_004,Hebbal Flyover Junction,13.0358,77.597,North,188,Moderate,"Intersection of Airport Expressway, Ring Road, and Tumkur freight feeder",High Volume Airport Transit & Construction,High
+HOT_005,Graphite India Junction (Whitefield),12.9868,77.7126,Mahadevapura,195,Moderate,Dense tech traffic overlapping with construction debris and industrial legacy zone,Tech Corridor Traffic & Metro Works,High
+HOT_006,Goraguntepalya / CMTI Junction,13.0322,77.5348,West,208,Poor,Key junction on National Highway 48 with constant inter-state truck movement,Heavy Commercial Vehicle Idling,High
+HOT_007,Kadubeesanahalli Underpass (ORR),12.9352,77.6894,Mahadevapura,192,Moderate,IT corridor arterial road with recurrent peak hour tailbacks,Peak-hour Stop-and-Go Commuter Traffic,Medium
+HOT_008,Mysore Road Satellite Bus Stand,12.952,77.541,South-West,185,Moderate,Inter-city KSRTC & private bus hub with intense diesel idling,Diesel Fleet Concentration,Medium

@@ -1,0 +1,5 @@
+event_id,start_time,end_time,event_title,affected_zone,synopsis,measured_impact,meteorological_trigger,status
+EVT_2026_01,2026-01-14 06:00:00,2026-01-16 11:00:00,Winter Morning Atmospheric Inversion,Bengaluru Wide,Temperature inversion trapped morning traffic particulates below 220m boundary layer,AQI spiked to 264 (Very Poor),Low Wind (<0.9 m/s) + Radiation Inversion,Resolved
+EVT_2026_02,2026-04-05 14:00:00,2026-04-06 20:00:00,Pre-Monsoon Dust Storm Inflow,North & East Bengaluru,Strong localized convective winds resuspended loose soil and construction debris,PM10 spiked to 290 µg/m³,Convective Gusts (38 km/h),Resolved
+EVT_2026_03,2026-08-28 20:00:00,2026-08-29 04:00:00,Open Waste Combustion Episode,Bellandur Lake Outskirts,Smoldering dry waste and biomass in vacant plots along tech corridor,Localized PM2.5 elevated by 45 µg/m³,Biomass Burning,Resolved
+EVT_2026_04,2026-09-01 07:30:00,2026-09-01 10:30:00,Peak Morning Rush Chokepoint,Silk Board & Peenya,Heavy commuter surge combined with calm morning winds and 82% humidity,AQI reached 218 (Poor),Traffic Congestion + Stagnant Air,Active
