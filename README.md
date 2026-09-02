@@ -5,11 +5,11 @@
 
 AQI SENTINEL is a production-quality, Bengaluru-restricted environmental intelligence platform. It continuously ingests, analyzes, ranks, and visualizes air quality telemetry, nitrogen dioxide concentrations, traffic bottleneck congestion, industrial stack emissions, and green canopy coverage across 12 key Bengaluru municipal zones.
 
----
+
 
 ## Key Features & Architectural Scope
 
-1. **Strict Bengaluru Scope Restriction**: Pinned to Bengaluru municipality bounds (12.9716° N, 77.5946° E). All maps, analytics, safe zone lookups, and AI guidance focus exclusively on Bengaluru.
+1. **Strict Bengaluru Scope Restriction **: Pinned to Bengaluru municipality bounds (12.9716° N, 77.5946° E). All maps, analytics, safe zone lookups, and AI guidance focus exclusively on Bengaluru.
 2. **Data Integrity Guarantee**: Explicitly labels data as `LIVE ●`, `HISTORICAL`, `PREDICTED`, `ESTIMATED`, `USER-SUBMITTED`, or `UNAVAILABLE`. Never fabricates data.
 3. **Manual Algorithmic Transparency**:
    - **Merge Sort ($O(N \log N)$)**: Custom implementation in `lib/algorithms/mergeSort.ts` to rank pollution hotspots by composite risk score.
@@ -32,7 +32,7 @@ AQI SENTINEL is a production-quality, Bengaluru-restricted environmental intelli
    - `Pollution Calendar`: Day-by-day AQI/PM2.5 heat map calendar (Month/Week views).
 5. **Dynamic Theme System**: Supports **Midnight Command**, **Aurora Green**, and **Carbon Glass** themes.
 
----
+-----
 
 ## Tech Stack
 
@@ -100,7 +100,7 @@ npm run build
 npm run start
 ```
 
----
+-----
 
 ## API Endpoints
 
@@ -114,7 +114,7 @@ npm run start
 - `POST /api/reports`: Citizen complaint submission and government report generator.
 - `POST /api/primus`: Azure OpenAI assistant reasoning and route comparison.
 
----
+------
 
 ## Verification & Quality Assurance
 
@@ -122,17 +122,9 @@ npm run start
 - **Strict Error Handling**: Graceful fallback handlers for API timeouts and missing parameters.
 - **Production Build Validated**: Built with Next.js App Router for optimal SSR/CSR split and static asset optimization.
 
----
+------
 
 ## 👥 Team & Contributors
 
-| Member               | GitHub Username                                                              | Role                     |
-| :------------------- | :--------------------------------------------------------------------------- | :----------------------- |
-| **Jeevan Gowda H M** | [@jeevangowdahm](https://github.com/jeevangowdahm)                           | Core Engine              |
-| **Shashank Sharma**  | [@hshashanksharma-ui](https://github.com/hshashanksharma-ui)                 | UI Development           |
-| **Ayush**            | [@Ayushcodes-hub](https://github.com/Ayushcodes-hub)                         | Developer                |
-| **Abishek Lochan**   | [@abisheklochan-a11y](https://github.com/abisheklochan-a11y)                 | Accessibility & Frontend |
-| **Hari Prasad**      | [@hariprasadmstar2007-design](https://github.com/hariprasadmstar2007-design) | Project Lead             |
-| **Bhuvan B P**       | [@bhuvanbp0407](https://github.com/bhuvanbp0407)                             | Developer                |
 
 ---
